@@ -16,6 +16,7 @@ Before you begin, ensure you have the following dependencies installed:
 To quickly test the app, follow these steps:
 
 1. Navigate to the folder that contain the ```input.json``` file
-2. Instantly test the app with npx, replacing YYYY-MM-DD with the desired date:
+2. Instantly test the app with npx, replacing ```YYYY-MM-DD``` with the desired date:
    ```bash
    npx offerparser YYYY-MM-DD
+   ```
