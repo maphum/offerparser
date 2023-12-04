@@ -15,12 +15,13 @@ Before you begin, ensure you have the following dependencies installed:
 
 To quickly test the app, follow these steps:
 
-1. Navigate to the folder that contain the ```input.json``` file
+1. Navigate to the folder that contain the ```input.json``` file.
 2. Instantly test the app with `npx` (a tool come with `npm`), replacing `YYYY-MM-DD` with the desired date (e.g: `2019-12-25`):
 
    ```bash
    npx offerparser YYYY-MM-DD
    ```
+3. The result `output.json` file is generated in current folder.
 
 ## License
 This project is licensed under the MIT License.
