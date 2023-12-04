@@ -20,3 +20,5 @@ To quickly test the app, follow these steps:
    ```bash
    npx offerparser YYYY-MM-DD
    ```
+## License
+This project is licensed under the MIT License.
