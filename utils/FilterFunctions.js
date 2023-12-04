@@ -6,7 +6,7 @@ export const validDate = (checkinDate) => {
     return (offer) => {
         let diff = new Date(offer.valid_to) - checkinday;
         diff /= (1000 * 60 * 60 * 24);
-        return diff > 5; 
+        return diff >= 5; 
     }
 
 }
