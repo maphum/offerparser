@@ -8,8 +8,8 @@ This project is a tool for parsing offers using Node.js. It takes offers data fr
 
 Before you begin, ensure you have the following dependencies installed:
 
-- Node.js v20.8.1
-- npm v10.1.0
+- [Node.js](https://nodejs.org/) (version >= 20.10.0)
+- [npm](https://www.npmjs.com/) (version >= 10.2.3)
 
 ## Getting Started
 
